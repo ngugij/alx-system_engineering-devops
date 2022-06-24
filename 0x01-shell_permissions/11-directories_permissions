@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root/alx-system_engineering-devops/0x01-shell_permissions -type d -print0 |xargs -0 chmod 755
+sudo chmod 755 ./ -R
